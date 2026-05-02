@@ -1,3 +1,5 @@
+![Frame 3](https://github.com/codemantechnology/expense_tracker/blob/main/expense.png)
+
 # expense_tracker
 
 A new Flutter project.
