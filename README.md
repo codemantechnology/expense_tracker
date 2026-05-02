@@ -1,4 +1,4 @@
-![Frame 3](https://github.com/codemantechnology/medicalappui/blob/main/medical.png)
+![Frame 3](https://github.com/codemantechnology/expense_tracker/blob/main/expense.png)
 
 # expense_tracker
 
