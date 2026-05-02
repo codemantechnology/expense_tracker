@@ -48,7 +48,7 @@ class MainScreen extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          'Codeman',
+                          'Codeman Tech',
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.bold,
