@@ -204,6 +204,7 @@ class MainScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 40),
+            //Transactions
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
